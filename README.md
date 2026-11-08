@@ -5,6 +5,10 @@
 > 本仓库是 **DSH（DeepSeek Harness）Web 端插件 + 一个配套技能 + 方法与话术文档**。
 > 不含任何第三方技能包原始文件（详见 `NOTICE.md`）。
 
+![demo](docs/assets/demo.gif)
+
+> 15 秒看懂：案件台 → 客户台 → 赛道台 → 产出导出。MP4 版：[demo.mp4](docs/assets/demo.mp4)
+
 ---
 
 ## 它解决什么问题
