@@ -20,9 +20,13 @@
 
 ## 截图
 
-| 案件台（三栏） | 赛道台（按阶段过滤） |
+| 案件台（三栏） | 客户台（转化漏斗 + 邀约铺垫） |
 |---|---|
-| ![case](docs/assets/case-bench.png) | ![tracks](docs/assets/track-bench.png) |
+| ![case](docs/assets/case-bench.png) | ![client](docs/assets/client-bench.png) |
+
+| 赛道台（按阶段过滤） | 功能卡（点开跑） |
+|---|---|
+| ![tracks](docs/assets/track-bench.png) | ![cards](docs/assets/track-cards.png) |
 
 ---
 
