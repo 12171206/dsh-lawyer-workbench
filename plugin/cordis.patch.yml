@@ -1,0 +1,9 @@
+- insert:
+    - id: lawyer-workbench
+      name: '@local/dsh-lawyer-workbench'
+      config:
+        caseRoot: 'C:\Users\you\Documents\律师工作目录'
+        catalogPath: 'C:\Users\you\deepseek\lawyer-skillpkg\律师AI技能包-v1.1\catalog.json'
+        sessionWorkspace: 'C:\Users\you\Documents\律师工作目录'
+        python: 'C:\Users\you\.dsh\dsh-runtimes\dsh-primary-runtime\dependencies\python\python.exe'
+        firmName: '某某律师事务所'

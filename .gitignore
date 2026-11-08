@@ -1,0 +1,17 @@
+# 依赖与构建产物
+__pycache__/
+*.pyc
+node_modules/
+.pnpm-store/
+
+# 运行期数据
+_收件箱/
+_备份/
+_日历/
+*.log
+
+# 临时
+*.tmp
+.DS_Store
+Thumbs.db
+_ocr_sample.png

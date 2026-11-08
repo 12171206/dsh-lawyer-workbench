@@ -1,0 +1,13 @@
+{
+  "meta": {
+    "title": "Lawyer workbench",
+    "description": "Five left-rail benches over the case-folder convention: where each matter stands, what each practice line can do, document state, and what is due."
+  },
+  "nav": {
+    "cases": "Cases",
+    "tracks": "Tracks",
+    "deliver": "Deliverables",
+    "deadlines": "Deadlines",
+    "settings": "Settings"
+  }
+}
