@@ -7,7 +7,7 @@
 
 ![demo](docs/assets/demo.gif)
 
-> 15 秒看懂：案件台 → 客户台 → 赛道台 → 产出导出。MP4 版：[demo.mp4](docs/assets/demo.mp4)
+> 20 秒真实操作录屏：案件台 → 客户台/邀约铺垫 → 赛道台/立案 → 期限台 → 建档向导 → 回到案件台。MP4 版：[demo.mp4](docs/assets/demo.mp4)
 
 ---
 
